@@ -51,7 +51,7 @@ cd DS02_05_26_pd
 Utwórz folder według schematu `literaimienia_nazwisko_pd` w folderze odpowiedniej lekcji, np.:
 
 ```
-prace_domowe/lekcja_05/jnowak_pd/
+prace_domowe/lekcja_05/j_nowak_pd/
 ```
 
 Wrzuć tam swój plik z rozwiązaniem (`.ipynb`, `.py` lub `.md`).
